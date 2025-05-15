@@ -1,6 +1,6 @@
 ## 🏋️ Exercise Tracker
 
-The **Exercise Tracker** is a console-based application developed in C# that enables users to log and analyze their workout routines. It serves as an educational project to demonstrate the implementation of the repository pattern and basic CRUD operations in a console environment.
+The **Exercise Tracker** is an API developed in C# that enables users to log and analyze their workout routines. It serves as an educational project to demonstrate the implementation of the repository pattern and basic CRUD operations in a console environment.
 
 ---
 
@@ -19,15 +19,7 @@ The **Exercise Tracker** is a console-based application developed in C# that ena
 * **Architecture**: Repository Pattern
 * **Data Storage**: In-memory collections or simple file-based storage (as per project scope)
 ---
-### 📁 Project Structure
 
-* `Program.cs`: Entry point of the application.
-* `Models/Exercise.cs`: Defines the Exercise entity.
-* `Repositories/IExerciseRepository.cs`: Interface for the exercise repository.
-* `Repositories/ExerciseRepository.cs`: Implementation of the repository interface.
-* `Services/ExerciseService.cs`: Contains business logic for managing exercises.
-* `Utilities/InputValidator.cs`: Utility class for validating user input.
----
 ### 🚀 Getting Started
 
 1. **Clone the Repository**:
