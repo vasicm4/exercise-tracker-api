@@ -4,7 +4,7 @@ The **Exercise Tracker** is an API developed in C# that enables users to log and
 
 ---
 
-### 🎯 Features
+### Features
 
 * **Record Exercises**: Log exercises with details such as date, type, and duration.
 * **View Exercise Logs**: Display a list of all recorded exercises.
@@ -12,7 +12,7 @@ The **Exercise Tracker** is an API developed in C# that enables users to log and
 * **Delete Entries**: Remove exercises from the log.
 * **Data Persistence**: Utilize the repository pattern for managing data storage and retrieval.
 ---
-### 🛠️ Technologies Used
+### Technologies Used
 
 * **Language**: C#
 * **Framework**: .NET
@@ -20,7 +20,7 @@ The **Exercise Tracker** is an API developed in C# that enables users to log and
 * **Data Storage**: In-memory collections or simple file-based storage (as per project scope)
 ---
 
-### 🚀 Getting Started
+### Getting Started
 
 1. **Clone the Repository**:
 
@@ -45,12 +45,12 @@ The **Exercise Tracker** is an API developed in C# that enables users to log and
 ---
 
 <a name="license"><a/>
-## ⚖️ License
+## License
 This project is licensed under the [MIT License](./LICENSE). See the [LICENSE](./LICENSE) file for details.
 
 ---
 <a name="contact"><a/>
-## ☎️ Contact me
+## Contact me
 
  - **Email**: [vasicmaksim4@gmail.com](mailto:vasicmaksim4@gmail.com)
  - **Github**: [vasicm4](https://github.com/vasicm4)
